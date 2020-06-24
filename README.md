@@ -11,7 +11,7 @@ Characterize potential local adaptations of the *Virgibacillus* genus associated
 
 **Methodology**
 
-![alt text]()
+![alt text](https://github.com/solouli/Pangenomics_Adaptations/blob/master/methodology.png)
 
 1) Genomic assembly of *Virgibacillus sp* from Cuatro Ciénegas, Coahuila.
 
