@@ -13,7 +13,7 @@ Characterize potential local adaptations of the *Virgibacillus* genus associated
 
 ![alt text]()
 
-1) Genomic assembly of Virgibacillus sp from Cuatro Ciénegas, Coahuila.
+1) Genomic assembly of *Virgibacillus sp* from Cuatro Ciénegas, Coahuila.
 
 2) Phylogeny from multiple alignments using the core genome.
 
