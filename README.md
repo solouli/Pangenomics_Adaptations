@@ -1,4 +1,4 @@
-![alt text](https://github.com/solouli/Pangenomics_Adaptations/blob/master/header.png)
+![alt text](https://github.com/solouli/Pangenomics_Adaptations/blob/master/header2.png)
 
 # Characterization of local adaptations in the genus Virgibacillus through pangenomic analysis
 ## Navarro-Miranda M. (IE-UNAM), García-Ulloa M., Viladomat-Jasso M., Souza V.
