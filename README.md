@@ -1,4 +1,4 @@
-![alt text](https://github.com/solouli/Pangenomics_Adaptations/blob/master/header1.png)
+![alt text](https://github.com/solouli/Pangenomics_Adaptations/blob/master/header.png)
 
 **Introduction**
 
