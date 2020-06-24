@@ -1,8 +1,5 @@
 # Characterization of local adaptations in the genus Virgibacillus through pangenomic analysis
-# Navarro-Miranda M. (IE-UNAM) 
-## García-Ulloa M., Viladomat-Jasso M., Souza V.
-
-## Pangenomics_Adaptations is a respository for the code used in this project.
+## Navarro-Miranda M. (IE-UNAM), García-Ulloa M., Viladomat-Jasso M., Souza V.
 
 **Introduction**
 
@@ -27,3 +24,5 @@ Characterize potential local adaptations of the *Virgibacillus* genus associated
 **Acknowledgments**
 
 This work is supported by CONACYT-SEP-Project 220708 and DGAPA-PAPIIT, UNAM-Project IG200319. Appreciation for their help and support to Erika Aguirre-Planter and Laura Espinosa-Asuar.
+
+## Pangenomics_Adaptations is a respository for the code used in this project.
